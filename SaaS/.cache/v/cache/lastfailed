@@ -1,0 +1,4 @@
+{
+  "snakeeyes/tests/contact/test_tasks.py::TestTasks::()::test_deliver_support_email": true, 
+  "snakeeyes/tests/user/test_tasks.py::TestTasks::()::test_deliver_password_reset_email": true
+}
